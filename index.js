@@ -15,7 +15,7 @@ const authRoutes = require("./routes/authRoute");
 const tripRoutes = require("./routes/tripRoutes");
 const bookingRoute = require("./routes/bookingRoute");
 
-// application routes
+// application routes ..tanjil
 const run = async () => {
   try {
     await client.connect();
